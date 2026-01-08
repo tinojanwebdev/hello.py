@@ -1,0 +1,10 @@
+COE3200 Communication Skills Assignment Submission
+
+GitHub Repository Link:
+https://github.com/tinojanwebdev/hello.py.git
+
+Python Program to Fetch hello.py File:
+
+with open('hello.py', 'r') as file:
+    content = file.read()
+    print(content)
