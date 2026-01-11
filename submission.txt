@@ -1,10 +1,7 @@
 COE3200 Communication Skills Assignment Submission
 
+Name – Tamilmaran Tinojan
+Reg No – 326774286
+
 GitHub Repository Link:
-https://github.com/tinojanwebdev/hello.py.git
-
-Python Program to Fetch hello.py File:
-
-with open('hello.py', 'r') as file:
-    content = file.read()
-    print(content)
+https://github.com/tinojanwebdev/hello.py
